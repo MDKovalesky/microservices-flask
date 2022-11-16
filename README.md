@@ -1,1 +1,11 @@
-# microservices-flask
+# microservices-Python-with-Flask
+-Installing Python 3.x
+-Creating Python Virtual Enviroments
+-Installing Python VS Code Extention
+-Sample Flask Application
+-Jinja Templating for Dynamic Web Page
+-Using pip to Freeze Python Dependencies
+-Building the Docker image using Dockerfile
+-Writing Docker Compose file
+-Writing Kubernetes Manifest file for the Applications
+-creating Helm Chart
